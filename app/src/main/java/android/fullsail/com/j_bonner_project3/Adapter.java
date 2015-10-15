@@ -9,9 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by JackBonner on 9/17/15.
- */
+
 public class Adapter extends BaseAdapter {
 
     private static final long ID_CONSTANT = 0x010101010L;

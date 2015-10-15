@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Movies</string>
 
-    <string name="movies">Toggle Movies</string>
-    <string name="action_settings">Settings</string>
+    <string name="movies">Sort Movies</string>
+    <string-array name="movieNames">
+        <item>Face Off</item>
+        <item>Gladiator</item>
+        <item>Batman Begins</item>
+    </string-array>
 </resources>

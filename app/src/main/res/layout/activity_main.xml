@@ -11,10 +11,22 @@
         >
     </Spinner>
 
-    <Button
-        android:id="@+id/toggle"
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/movies" />
+        android:id="@+id/movie_name"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_genre"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/movie_year"
+        />
 
 </LinearLayout>
